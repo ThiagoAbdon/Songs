@@ -13,4 +13,4 @@ Coleção de scripts em Python inspirados em músicas.
 2. Execute com Python 
 
 ## 👨‍💻 Autor
-Thiago
+Thiago Abdon
