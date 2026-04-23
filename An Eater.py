@@ -9,9 +9,9 @@ linhas = [
     ("just come around", 0.075),
     ("lovee usss", 0.055),
     ("together",0.075),
-    ("an eater, i need her", 0.090),
+    ("i need her, i need her", 0.090),
     ("i'll feed heer, i'll keep her", 0.090),
-    ("an eater, i need her",0.090),
+    ("i need her, i need her",0.090),
 ]
 
 delays = [0.65, 0.75, 2.5, 0.75, 0.90, 2.45, 1.60, 6]
