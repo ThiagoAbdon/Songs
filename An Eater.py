@@ -50,8 +50,5 @@ def show_music():
         print()
         sleep(delays[i])  
 
-        if i == 8:  
-            os.system('cls' if os.name == 'nt' else 'clear')
-
 show_music()
 
